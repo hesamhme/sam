@@ -1,0 +1,7 @@
+# vscode
+.vscode/
+redis/data/
+venv/
+db.sqlite3
+.idea/
+__pycache__/
